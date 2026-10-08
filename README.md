@@ -1,16 +1,32 @@
-## Hi there 👋
+# Thiago Teixeira
 
-<!--
-**Thiago-Teixeir4/Thiago-Teixeir4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Back-End Developer** | Physics Student @ USP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Pursuing a degree in **Physics at the University of São Paulo (USP)**.
+- Specialized in **Back-End Development** with **C# (.NET)**, **Python**, and currently learning **C++**.
+- Passionate about software architecture, clean code (SOLID principles), and computational methods.
+- Linux user & open-source enthusiast.
+
+---
+
+### Tech Stack & Tools
+
+- **Languages:** C#, Python, learning C++
+- **Frameworks & Ecosystem:** .NET, RESTful APIs
+- **Tools & Environments:** Git, GitHub, Linux
+
+---
+
+### Featured Projects
+
+- **[Nexus](https://github.com/Thiago-Teixeir4/nexus-notification-service)** — Multichannel notification system and application logger built with C# and .NET using SOLID principles.
+
+---
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-teixeira-01ba2a373)
