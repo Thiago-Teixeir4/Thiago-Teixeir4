@@ -7,7 +7,7 @@
 ### About Me
 
 - Pursuing a degree in **Physics at the University of São Paulo (USP)**.
-- Specialized in **Back-End Development** with **C# (.NET)**, **Python**, and currently learning **C++**.
+- Specializing in **Back-End Development** with **C# (.NET)**, **Python**, and currently learning **C++**.
 - Passionate about software architecture, clean code (SOLID principles), and computational methods.
 - Linux user & open-source enthusiast.
 
